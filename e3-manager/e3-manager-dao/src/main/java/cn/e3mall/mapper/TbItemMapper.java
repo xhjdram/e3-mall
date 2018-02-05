@@ -27,4 +27,6 @@ public interface TbItemMapper {
     int updateByPrimaryKeySelective(TbItem record);
 
     int updateByPrimaryKey(TbItem record);
+    List<TbItem> getPageList(Integer index, Integer size);
+    int getCount();
 }
