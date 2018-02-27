@@ -7,7 +7,7 @@
     <result column="name" property="name" jdbcType="VARCHAR" />
     <result column="status" property="status" jdbcType="INTEGER" />
     <result column="sort_order" property="sortOrder" jdbcType="INTEGER" />
-    <result column="is_parent" property="isParent" jdbcType="BIT" />
+    <result column="is_parent" property="isParent" jdbcType="INTEGER"/>
     <result column="created" property="created" jdbcType="TIMESTAMP" />
     <result column="updated" property="updated" jdbcType="TIMESTAMP" />
   </resultMap>
@@ -255,4 +255,7 @@
       updated = #{updated,jdbcType=TIMESTAMP}
     where id = #{id,jdbcType=BIGINT}
   </update>
+  <select id="selectByParentId" parameterType="java.lang.Long" resultMap="BaseResultMap">
+    SELECT * FROM  tb_item_cat WHERE parent_id=#{VALUE};
+  </select>
 </mapper>

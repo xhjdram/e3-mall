@@ -268,7 +268,7 @@ status</ColNames>
     <column id="65" parent="12" name="is_parent">
       <Position>6</Position>
       <Comment>该类目是否为父类目，1为true，0为false</Comment>
-      <DataType>tinyint(1)|0</DataType>
+      <DataType>int(4)|0</DataType>
       <DefaultExpression>&apos;1&apos;</DefaultExpression>
     </column>
     <column id="66" parent="12" name="created">
