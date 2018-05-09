@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.github.pagehelper:pagehelper:3.4.2-fix">
     <CLASSES>
-      <root url="jar://E:/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://E:/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://E:/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

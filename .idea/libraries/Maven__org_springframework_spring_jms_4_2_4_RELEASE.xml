@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework:spring-jms:4.2.4.RELEASE">
     <CLASSES>
-      <root url="jar://E:/repository/org/springframework/spring-jms/4.2.4.RELEASE/spring-jms-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/org/springframework/spring-jms/4.2.4.RELEASE/spring-jms-4.2.4.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://E:/repository/org/springframework/spring-jms/4.2.4.RELEASE/spring-jms-4.2.4.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/org/springframework/spring-jms/4.2.4.RELEASE/spring-jms-4.2.4.RELEASE-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://E:/repository/org/springframework/spring-jms/4.2.4.RELEASE/spring-jms-4.2.4.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/org/springframework/spring-jms/4.2.4.RELEASE/spring-jms-4.2.4.RELEASE-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

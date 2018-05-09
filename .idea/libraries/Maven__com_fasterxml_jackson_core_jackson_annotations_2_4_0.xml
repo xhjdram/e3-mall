@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.4.0">
     <CLASSES>
-      <root url="jar://E:/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://E:/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://E:/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/12/【阶段16】商城项目/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/maven/MavenRepository/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

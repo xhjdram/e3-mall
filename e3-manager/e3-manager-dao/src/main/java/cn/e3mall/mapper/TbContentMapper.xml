@@ -354,4 +354,7 @@
       updated = #{updated,jdbcType=TIMESTAMP}
     where id = #{id,jdbcType=BIGINT}
   </update>
+    <select id="selectbyCategreyIdPagelist" resultMap="BaseResultMap">
+    SELECT * FROM tb_content WHERE category_id=#{categreyId} limit #{start},#{total}
+  </select>
 </mapper>
